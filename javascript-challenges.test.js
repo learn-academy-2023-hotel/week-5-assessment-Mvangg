@@ -123,7 +123,7 @@ describe('fullHouseOrNot', () => {
 
 // b) Create the function that makes the test pass.
 
-function fullHouseOrNot(array) {  
+const fullHouseOrNot = (array) => {  
     const sameCards = {}
     for (const card of array) { // Self Note: const hand1 = [5, 5, 5, 3, 3], first iteration: card is 5, second iteration: card is 5, third iteration: card is 5, fourth iteration: card is 3, fifth iteration: card is three.
       if (sameCards[card]) {
