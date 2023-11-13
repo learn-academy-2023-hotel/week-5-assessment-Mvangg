@@ -4,10 +4,10 @@ The LEARN program focuses on readying our students for a career in technology. T
 
 ### LinkedIn
 
-Your LinkedIn url:
+Your LinkedIn url: www.linkedin.com/in/mvanggg
 
 Check the boxes below to certify that you have completed the following items on LinkedIn:
 
-- [ ] create a new post about your first five weeks at LEARN. Topics can include (but are not limited to) Ruby, sharing a project you created, sharing a resource you found helpful, or portfolios.
-- [ ] add at least ten more professional connections. You should have at least 50 LinkedIn connections.
-- [ ] react (like, celebrate, comment, etc) to ten posts.
+- [X] create a new post about your first five weeks at LEARN. Topics can include (but are not limited to) Ruby, sharing a project you created, sharing a resource you found helpful, or portfolios.
+- [X] add at least ten more professional connections. You should have at least 50 LinkedIn connections.
+- [X] react (like, celebrate, comment, etc) to ten posts.
